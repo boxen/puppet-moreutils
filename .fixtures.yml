@@ -1,0 +1,3 @@
+fixtures:
+  symlinks:
+    "moreutils": "#{source_dir}"
